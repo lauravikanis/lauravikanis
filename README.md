@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20there&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timegradient&height=200&section=header&text=Hi%20there&fontSize=80&animation=fadeIn&textBg=true)
 
 I'm Laura
 - 🌱 I’m currently learning web development 
