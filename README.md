@@ -4,7 +4,7 @@ I'm Laura
 - 🌱 I’m currently learning web development 
 - 🔭 I’m currently working on an app for my "Gesellenstück"
 - 💬 Ask me about styling and design ( i am a trained designer)
-- ⚡ Fun fact: I love music but i cant play any instrument
+- ⚡ Fun fact: I love music but can't play any musical instrument
 
 <!--
 **lauravikanis/lauravikanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
