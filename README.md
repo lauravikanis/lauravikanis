@@ -1,18 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20therer&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20there&fontSize=70&animation=fadeIn)
 
-### Hi there 👋
+I'm Laura
+- 🌱 I’m currently learning web development 
+- 🔭 I’m currently working on an app for my "Gesellenstück"
+- 💬 Ask me about styling and design ( i am a trained designer)
+- ⚡ Fun fact: I love music but i cant play any instrument
+
+
 
 <!--
 **lauravikanis/lauravikanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
