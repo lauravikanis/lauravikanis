@@ -2,7 +2,7 @@
 
 I'm Laura
 - 🌱 I’m currently learning web development 
-- 🔭 I’m currently working on an app for my "Gesellenstück"
+- 🔭 I’m currently working on an app for my "Gesellenstück"  => "https://github.com/lauravikanis/WalkTheLine"
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
 
