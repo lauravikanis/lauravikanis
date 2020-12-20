@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20there!&animation=fadeIn&fontAlign=80&fontAlignY=35)
 
 I'm Laura
-- 🌱 I’m currently learning web development 
-- 🔭 I’m currently working on an app for my "Gesellenstück"  => "https://github.com/lauravikanis/WalkTheLine"
+- 📫 How to reach me: (find me on [LinkedIn](https://www.linkedin.com/in/lauravikanis/))
+- 🔭 I’m currently working on my app [WalkTheLine](https://github.com/lauravikanis/WalkTheLine)
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
 
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🌱 I’m currently trying to find a job (find me on [LinkedIn](https://www.linkedin.com/in/lauravikanis/))
+
 -->
