@@ -8,8 +8,6 @@ I'm Laura
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
 
-![](https://komarev.com/ghpvc/?username=ylauravikanis)
-
 [![Lauras's github stats](https://github-readme-stats.vercel.app/api?username=lauravikanis&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lauravikanis&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
