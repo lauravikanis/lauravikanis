@@ -3,7 +3,6 @@
 I'm Laura
 - 📫 How to reach me: Go to "Contact" on my [Website](https://www.lauravikanis.de))
 - 🔭 I am currently working on my app [WalkTheLine](https://github.com/lauravikanis/WalkTheLine)
-- 🔍 I am currently looking for a job as Frontend Web Developer!
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
