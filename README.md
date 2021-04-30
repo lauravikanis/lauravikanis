@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20there!&animation=fadeIn&fontAlign=80&fontAlignY=35)
 
 I'm Laura
-- 📫 How to reach me: Go to "Contact" on my [Website](https://www.lauravikanis.de))
+- 📫 How to reach me: via "Contact" on  [www.lauravikanis.de](https://www.lauravikanis.de)
 - 🔭 I am currently working on my app [WalkTheLine](https://github.com/lauravikanis/WalkTheLine)
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about styling and design ( i am a trained designer)
