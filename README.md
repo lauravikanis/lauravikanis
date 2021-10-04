@@ -2,8 +2,6 @@
 
 I'm Laura
 - 📫 How to reach me: via "Contact" on  [www.lauravikanis.de](https://www.lauravikanis.de)
-- 🔭 I am currently working on my app [WalkTheLine](https://github.com/lauravikanis/WalkTheLine)
-- 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
 
