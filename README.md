@@ -4,14 +4,15 @@
 
 Hi! I'm Laura
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lauravikanis&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Lauras's github stats](https://github-readme-stats.vercel.app/api?username=lauravikanis&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 
 - 📫 How to reach me: via "Contact" on  [www.lauravikanis.de](https://www.lauravikanis.de)
 - 💬 Ask me about styling and design ( i am a trained designer)
 - ⚡ Fun fact: I love music but can't play any musical instrument
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lauravikanis&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Lauras's github stats](https://github-readme-stats.vercel.app/api?username=lauravikanis&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -->
 <!--
